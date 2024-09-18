@@ -1,0 +1,76 @@
+{
+  "levelData": [
+    {
+      "number": 1,
+      "name": "Scout",
+      "level_bg_image": "https://abcbackend.donative.in:3000/levels/1726556469274-grad-orange.png",
+      "level_image": "https://abcbackend.donative.in:3000/levels/1726560259698-1.png"
+    },
+    {
+      "number": 2,
+      "name": "Warrior",
+      "level_bg_image": "https://abcbackend.donative.in:3000/levels/1726557670376-grad-light-green.png",
+      "level_image": "https://abcbackend.donative.in:3000/levels/1726560287528-2.png"
+    },
+    {
+      "number": 3,
+      "name": "Chieftain",
+      "level_bg_image": "https://abcbackend.donative.in:3000/levels/1726557688187-grad-red.png",
+      "level_image": "https://abcbackend.donative.in:3000/levels/1726560301776-3.png"
+    },
+    {
+      "number": 4,
+      "name": "Elder",
+      "level_bg_image": "https://abcbackend.donative.in:3000/levels/1726557706499-grad-blue.png",
+      "level_image": "https://abcbackend.donative.in:3000/levels/1726560312697-4.png"
+    },
+    {
+      "number": 5,
+      "name": "Shaman",
+      "level_bg_image": "https://abcbackend.donative.in:3000/levels/1726557725377-grad-sky-blue.png",
+      "level_image": "https://abcbackend.donative.in:3000/levels/1726560324010-5.png"
+    },
+    {
+      "number": 6,
+      "name": "Warlord",
+      "level_bg_image": "https://abcbackend.donative.in:3000/levels/1726557777541-grad-pink.png",
+      "level_image": "https://abcbackend.donative.in:3000/levels/1726560336585-6.png"
+    },
+    {
+      "number": 7,
+      "name": "Supreme",
+      "level_bg_image": "https://abcbackend.donative.in:3000/levels/1726558273613-grad-blue.png",
+      "level_image": "https://abcbackend.donative.in:3000/levels/1726560347437-7.png"
+    },
+    {
+      "number": 8,
+      "name": "Spirit walker",
+      "level_bg_image": "https://abcbackend.donative.in:3000/levels/1726557910368-grad-yellow.png",
+      "level_image": "https://abcbackend.donative.in:3000/levels/1726560356708-8.png"
+    },
+    {
+      "number": 9,
+      "name": "Warchief",
+      "level_bg_image": "https://abcbackend.donative.in:3000/levels/1726557928178-grad-saffron.png",
+      "level_image": "https://abcbackend.donative.in:3000/levels/1726560367804-9.png"
+    },
+    {
+      "number": 10,
+      "name": "Tribal King",
+      "level_bg_image": "https://abcbackend.donative.in:3000/levels/1726558309412-grad-saffron.png",
+      "level_image": "https://abcbackend.donative.in:3000/levels/1726560378161-10.png"
+    },
+    {
+      "number": 11,
+      "name": "Ancestor",
+      "level_bg_image": "https://abcbackend.donative.in:3000/levels/1726558332699-grad-off-white.png",
+      "level_image": "https://abcbackend.donative.in:3000/levels/1726560391654-11.png"
+    },
+    {
+      "number": 12,
+      "name": "Explorer",
+      "level_bg_image": "https://abcbackend.donative.in:3000/levels/1726558348121-grad-light-pink.png",
+      "level_image": "https://abcbackend.donative.in:3000/levels/1726560400879-12.png"
+    }
+  ]
+}
